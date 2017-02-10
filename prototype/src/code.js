@@ -1,5 +1,5 @@
 function  randomTime() {
-    return Math.random()*5000
+    return Math.random()*500
 }
 
 function a(cb){
