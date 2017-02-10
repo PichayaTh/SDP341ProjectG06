@@ -1,4 +1,4 @@
-const a = 10;
+const a = 15;
 var b = 20;
 
 function plus(a,b){
